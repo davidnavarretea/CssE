@@ -1,0 +1,7 @@
+body {
+	background: #bdbdbd;
+}
+.rounded {
+	border-radius: 100%;
+	object-fit: cover;
+}

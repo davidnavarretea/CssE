@@ -1,0 +1,17 @@
+body {
+	margin-top: 50px;
+}
+.orange-btn {
+	background-color: orange;
+	padding: 10px;
+	border-radius: 4px;
+	text-decoration: none;
+	color: white;
+}
+
+.orange-btn:hover {
+	background-color: rgb(245, 160, 2);
+}
+.orange-btn:active {
+	background-color: rgb(231, 151, 2);
+}
